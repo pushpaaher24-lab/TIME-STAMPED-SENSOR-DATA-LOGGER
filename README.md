@@ -307,17 +307,24 @@ Repeat
 The following results were captured during testing:
 
 ### 🔹 LCD Startup & Initial Logging  
-<img width="1600" height="847" alt=" startup Screen" src="C:\Users\ASUS\Downloads\WhatsApp Image 2026-03-04 at 12.05.47 PM.jpeg"/>
-
-### 🔹 Menu Interface Screen  
-<img width="1600" height="832" alt="Menu Interface" src="C:\Users\ASUS\Downloads\WhatsApp Image 2026-03-04 at 12.05.47 PM.jpeg"/>
+<img width="1178" height="818" alt="Startup Screen" src="Screenshot_2026-01-20_223041.png.png" />
 
 ---
+
+### 🔹 Menu Interface Screen  
+<img width="1174" height="754" alt="Menu Interface" src="Screenshot 2026-01-20 223120.png" />
+
+---
+
 ### 🔹 RTC Update Screen  
-<img width="1600" height="828" alt="RTC Update Screen" src="C:\Users\ASUS\Downloads\RTC UPDATE.jpeg" />
+<img width="1166" height="776" alt="RTC Update Screen" src="Screenshot 2026-01-20 223213.png" />
+
 
 ### 🔹 Alert Message on UART and LED ON 
-<img width="1600" height="836" alt="Temperature Logging" src="C:\Users\ASUS\Downloads\WhatsApp Image 2026-03-04 at 12.07.32 PM.jpeg" />
+<img width="1170" height="780" alt="Temperature Logging" src="Screenshot 2026-01-20 223447.png" />
+
+
+---
 
 
 ---
